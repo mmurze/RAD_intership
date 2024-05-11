@@ -2,7 +2,7 @@
 
 ## Запустить приложение
 
-
+### `yarn install`
 ### `yarn start`
 
 
